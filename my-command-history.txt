@@ -1,0 +1,144 @@
+    1  cd
+    2  pwd
+    3  tree -L 1 /
+    4  Tree -L 1 /
+    5  tree -L1/
+    6  cd Desktop
+    7  tree -L 1/
+    8  tree -L 1\
+    9  tree -L 1 \
+   10  sudo apt install tree
+   11  tree -L 1\
+   12  tree -L 1 /
+   13  whoami
+   14  pwd
+   15  proc
+   16  procfs
+   17  ps
+   18  top
+   19  ps
+   20  top
+   21  procfs
+   22  procs
+   23  sudo shap install procs
+   24  sudo snap install procs
+   25  procs
+   26  /proc/meminfo
+   27  cd
+   28  /proc/meminfo
+   29  sudo -i
+   30  /procs/meminfo
+   31  procs /proc/meminfo
+   32  df
+   33  ls
+   34  ll
+   35  procs /proc/meminfo
+   36  procs /proc/filesystems
+   37  sysfs
+   38  /sys
+   39  cd /sys
+   40  ls
+   41  ll
+   42  ls
+   43  cd fs
+   44  ls
+   45  ll
+   46  cd ecryptfs
+   47  ls
+   48  ll
+   49  cd version
+   50  cd /version
+   51  ls
+   52  cd
+   53  cd sys
+   54  cd /sus
+   55  cd /sys
+   56  ls
+   57  cd 
+   58  cd/sys
+   59  cd sys
+   60  cd /sys
+   61  ls
+   62  cd fs
+   63  ls
+   64  cd bpf
+   65  cd ext4
+   66  ls
+   67  cd sda5
+   68  ls
+   69  cd.
+   70  cd
+   71  cd /sys/block
+   72  ls
+   73  loop9
+   74  ll
+   75  ls -l
+   76  ll
+   77  ls
+   78  cd /sys/block/loop9
+   79  ls
+   80  ls -l /sys
+   81  ll
+   82  ls -l sys
+   83  cd
+   84  cd Desktop
+   85  las
+   86  ls
+   87  cd
+   88  ls
+   89  cd home
+   90  cd /home
+   91  ls
+   92  cd /groot
+   93  cd groot
+   94  ls
+   95  mkdri CIT173_Lab3
+   96  mkdir CIT173_Lab3
+   97  ls
+   98  cd ~/
+   99  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+  100  sudo apt install git
+  101  ls
+  102  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+  103  cd ~/CIT173_Lab3
+  104  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+  105  cat ~/CIT173_Lab3/phonebook1.txt
+  106  sudo sed s/575/775/g ~/CIT173_Lab3/phonebook1.txt
+  107  sudo sed s/575/775/g ~/CIT173_Lab3/phonebook2.txt
+  108  sudo
+  109  sudo -i
+  110  sudo apt-get install -y python3-minimal
+  111  sudo apt-get update -y
+  112  apt list > ~/CIT173_Lab3/my-installed-1.txt
+  113  ls
+  114  python3 hello.py
+  115  ls
+  116  cd
+  117  cd /CIT173_Lab3_Files
+  118  ls
+  119  cd CIT173_Lab3_Files
+  120  python3 hello.py > ~/CIT173_Lab3/my-python-output.txt
+  121  ls
+  122  cd /CIT173_Lab3
+  123  cd
+  124  ls
+  125  cd /CIT173_Lab3
+  126  cd CIT173_Lab3
+  127  ls
+  128  infinite.py python3
+  129  python3 infinite.py
+  130  python3 infinite.py &
+  131  ls
+  132  cd /CIT173_Lab3_Files
+  133  cd CIT173_Lab3_Files
+  134  cd..
+  135  cd ..
+  136  cd CIT173_Lab3_Files
+  137  python3 infinite.py &
+  138  ps
+  139  ps > ~/CIT173_Lab3/my-processes-1.txt
+  140  ls
+  141  kill 6593
+  142  ps > ~/CIT173_Lab3/my-processes-2.txt
+  143  apt >  ~/CIT173_Lab3/my-installed-2.txt
+  144  history > ~/CIT173_Lab3/my-command-history.txt
